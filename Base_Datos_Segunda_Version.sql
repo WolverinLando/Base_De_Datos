@@ -1,3 +1,4 @@
+-----------Tabla Persona---------------
 CREATE TABLE persona(
     clv_persona VARCHAR(5) NOT NULL,
     nombre_persona VARCHAR(20) NOT NULL,
